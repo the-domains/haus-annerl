@@ -1,7 +1,7 @@
 name: Haus Annerl
 favicon: null
-layout_spectrum: 0.21563885547220707
-typography_spectrum: 0.5065156095661223
+layout_spectrum: 1
+typography_spectrum: 0.49127
 cta:
   domain: null
   bucket: null
