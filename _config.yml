@@ -1,19 +1,4 @@
-name: Haus Annerl
-favicon: null
-layout_spectrum: 0.24142
 typography_spectrum: 0.49127
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#8bb7f4'
@@ -25,4 +10,23 @@ color:
   lightness: 0.5625
   saturation: 0.3723433695267886
   rhythmicContrast: 0.6123787465039641
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24142
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Haus Annerl
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: navigation1
+    id: 84f1ac10-2df8-432d-a1a5-9e15ec768ddb
+    type: content
+favicon: null
 purpose: []
